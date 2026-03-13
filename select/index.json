@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クレイジーボーイ",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T01:45:17.637571Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クレイジーボーイ",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_クレイジーボーイ_SiLENT←NOiSE.txt"
+    }
+  ]
+}
